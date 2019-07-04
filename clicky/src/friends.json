@@ -1,86 +1,62 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "name": "Killface",
+    "image": "https://pbs.twimg.com/media/DU6fHM5U8AAX01R.jpg"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "name": "Simon",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/8e3f27fd10d27f522cc263c0a1724cf5.png"
   },
   {
     "id": 3,
-    "name": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "name": "Arthur Watley",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/bf7a91113ced864948ee85e611f77982.png"
   },
   {
     "id": 4,
-    "name": "Dexter",
-    "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "name": "Wendell",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/c857b6cb711c25975787fa142ceea606.png"
   },
   {
     "id": 5,
-    "name": "Courage",
-    "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "name": "Stan",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ff4defa10e113fb89683ffaa58d712b0.png"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
-    "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "name": "Nearl",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/4ce21fa3d51e7aebdef1361515741ce4.png"
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
-    "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "name": "Mr. Ford",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/f2cf774302522224ab2f0a69bbc0d598.png"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
-    "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "name": "Grace",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/aa823d9f440270cd6a6c904962302807.png"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
-    "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641",
-    "occupation": "Adventurer",
-    "location": "California"
+    "name": "Valerie",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/15637e1f767a01795f1284216f2955a1.png"
   },
   {
     "id": 10,
-    "name": "Rocko",
-    "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "name": "Wendell X",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYS6C_C04QPEZCG8Nax5SyMxj7AKFQgydNsJsn4RqGgCM4hKH"
   },
   {
     "id": 11,
-    "name": "Captain Planet",
-    "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836",
-    "occupation": "Superhero",
-    "location": "Earth"
+    "name": "Taqu'il",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/3b85c388aa4eece0d64b3ae242ed5330.png"
   },
   {
     "id": 12,
-    "name": "Ickis",
-    "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "name": "Xander Crews",
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/70351f5ff643272855f4370e3876a0ad.png"
   }
 ]
