@@ -10,7 +10,7 @@ function NavBar(props) {
             <a href="www">Click Game</a> 
         </li>
           <li>
-            Click an image to begin!
+            <h3>Click an image to begin!</h3>
             {/* render correct or incorect response */}
         </li>
           <li>

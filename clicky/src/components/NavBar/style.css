@@ -1,7 +1,10 @@
 .navbar {
-  background: blueviolet;
+  background: #5133a4;
   width: 100%;
   color: white;
+  position: fixed;
+  white-space: nowrap;
+  display: block;
 }
 
 .navbar li {
