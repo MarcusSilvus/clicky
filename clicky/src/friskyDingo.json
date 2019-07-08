@@ -2,61 +2,73 @@
   {
     "id": 1,
     "name": "Killface",
-    "image": "https://pbs.twimg.com/media/DU6fHM5U8AAX01R.jpg"
+    "image": "https://pbs.twimg.com/media/DU6fHM5U8AAX01R.jpg",
+    "clicked": false
   },
   {
     "id": 2,
     "name": "Simon",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/8e3f27fd10d27f522cc263c0a1724cf5.png"
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/8e3f27fd10d27f522cc263c0a1724cf5.png",
+    "clicked": false
   },
   {
     "id": 3,
     "name": "Arthur Watley",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/bf7a91113ced864948ee85e611f77982.png"
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/bf7a91113ced864948ee85e611f77982.png",
+    "clicked": false
   },
   {
     "id": 4,
     "name": "Wendell",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/c857b6cb711c25975787fa142ceea606.png"
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/c857b6cb711c25975787fa142ceea606.png",
+    "clicked": false
   },
   {
     "id": 5,
     "name": "Stan",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/ff4defa10e113fb89683ffaa58d712b0.png"
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/ff4defa10e113fb89683ffaa58d712b0.png",
+    "clicked": false
   },
   {
     "id": 6,
     "name": "Nearl",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/4ce21fa3d51e7aebdef1361515741ce4.png"
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/4ce21fa3d51e7aebdef1361515741ce4.png",
+    "clicked": false
   },
   {
     "id": 7,
     "name": "Mr. Ford",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/f2cf774302522224ab2f0a69bbc0d598.png"
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/f2cf774302522224ab2f0a69bbc0d598.png",
+    "clicked": false
   },
   {
     "id": 8,
     "name": "Grace",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/aa823d9f440270cd6a6c904962302807.png"
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/aa823d9f440270cd6a6c904962302807.png",
+    "clicked": false
   },
   {
     "id": 9,
     "name": "Valerie",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/15637e1f767a01795f1284216f2955a1.png"
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/15637e1f767a01795f1284216f2955a1.png",
+    "clicked": false
   },
   {
     "id": 10,
     "name": "Wendell X",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYS6C_C04QPEZCG8Nax5SyMxj7AKFQgydNsJsn4RqGgCM4hKH"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYS6C_C04QPEZCG8Nax5SyMxj7AKFQgydNsJsn4RqGgCM4hKH",
+    "clicked": false
   },
   {
     "id": 11,
     "name": "Taqu'il",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/3b85c388aa4eece0d64b3ae242ed5330.png"
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/3b85c388aa4eece0d64b3ae242ed5330.png",
+    "clicked": false
   },
   {
     "id": 12,
     "name": "Xander Crews",
-    "image": "https://static.tvtropes.org/pmwiki/pub/images/70351f5ff643272855f4370e3876a0ad.png"
+    "image": "https://static.tvtropes.org/pmwiki/pub/images/70351f5ff643272855f4370e3876a0ad.png",
+    "clicked": false
   }
 ]

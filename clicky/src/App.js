@@ -18,21 +18,20 @@ class App extends Component {
   //   this.setState({ friends });
   // };
 
+  
+
   // Map over this.state.friends and render a FaceCard component for each friend object
   render() {
     return (
       <Wrapper>
         <NavBar>Click Game</NavBar>
-        <Title>Friends List</Title>
+        <Title>Click Game</Title>
         {this.state.friends.map(friend => (
           <FaceCard
-            removeFriend={this.removeFriend}
             id={friend.id}
             key={friend.id}
             name={friend.name}
             image={friend.image}
-            occupation={friend.occupation}
-            location={friend.location}
           />
         ))}
       </Wrapper>
