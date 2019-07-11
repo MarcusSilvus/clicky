@@ -10,24 +10,26 @@ class App extends Component {
     friends
   };
 
-//  function shuffle(friends) {
-//   const _friends = friends.slice(0)
-//   for (let i = 0; i < friends.length - 1; i++) {
-//     let randomIndex = Math.floor(math.random() * (i + 1))
-//     let temp = _friends[i]
-//     _friends[i] = _friends[randomIndex]
-//     _friends[randomIndex] = temp
-//   }
-// }
+ shuffleFriends = (friends) => {
+  const _friends = friends.slice(0)
+  for (let i = 0; i < friends.length - 1; i++) {
+    let randomIndex = Math.floor(Math.random() * (i + 1))
+    let temp = _friends[i]
+    _friends[i] = _friends[randomIndex]
+    _friends[randomIndex] = temp
+  }
+  return _friends;
+}
 
 
 // Map over this.state.friends and render a FaceCard component for each friend object
 render() {
+  const shuffledFriends = this.shuffleFriends(this.state.friends);
   return (
     <Wrapper>
       <NavBar>Click Game</NavBar>
       <Title>Click Game</Title>
-      {this.state.friends.map(friend => (
+      {shuffledFriends.map(friend => (
         <FaceCard
           id={friend.id}
           key={friend.id}
